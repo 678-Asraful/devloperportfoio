@@ -196,3 +196,10 @@ main {
     .skill-img{
         margin: 30px 30px 0 30px;
     }
+    /* resume section related styles */
+    .resume{
+        display: flex;
+    }
+    .resume-title{
+        text-align: center;
+    }
