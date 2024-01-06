@@ -14,6 +14,7 @@ body {
     font-size: 20px;
     font-weight: 700;
     padding: 15px 35px;
+    color: #fff;
 
 }
 
@@ -94,6 +95,7 @@ nav ul span {
 #con-btn {
     margin-left: 30px;
     margin-top: 37px;
+    color: #fff;
 
 }
 
@@ -202,4 +204,75 @@ main {
     }
     .resume-title{
         text-align: center;
+        font-size: 35px;
+        color:  #181818;
     }
+    .collumn-1{
+        margin-right: 70px;
+    }
+    .collumn-1-title , .collumn-2-title{
+        color: #474747;
+        font-size: 30px;
+        font-weight: 700;
+    }
+    .education-title , .experience-title{
+        color: #474747;
+        font-size: 25px;
+        font-weight: 700;
+    }
+    .education-institute , .company-name{
+        color: #757575;
+        font-size: 20px;
+    }
+    .education-description , .expoerience-description{
+        color: #757575;
+        font-size: 16px;
+        margin-bottom: 50px;
+    }
+    .download-cv{
+        text-align: center;
+        
+    }
+   /* footer section related styles */
+   .footer-section{
+    display: flex;
+    gap: 20px;
+   }
+   .footer-section-1{
+    margin-top: 130px;
+    margin-left: 230px;
+   }
+   footer{
+    background: #FFF8F3;
+    margin-top: 130px;
+    
+   }
+   .footer-section-2{
+    margin-top: 130px;
+    margin-right: 230px;
+    width: 50%;
+   }
+   .footer-section-title{
+    color: #181818;
+    font-size: 35px;
+   }
+   .footer-section-about{
+    color:  #474747;
+    font-size: 16px;
+    margin-right: 120px;
+   }
+   .personal-message-button input,textarea {
+    display: block;
+    width: 461px;
+    height: 64px;
+    margin-bottom: 28px;
+    margin-right: 230px;
+    border: none;
+    border-radius: 5px;
+    padding: auto;}
+    .icon img{
+        padding-right: 24px;
+        padding-top: 30px;
+    }
+   
+  
